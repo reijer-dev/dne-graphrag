@@ -1,7 +1,4 @@
-# dne2024
-
-
-## setup
+## Setup
 
 0. use python version >=12 && <13
 1. check if requirements.txt needs platform specific changes for your machine
