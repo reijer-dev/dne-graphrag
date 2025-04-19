@@ -1,0 +1,4 @@
+rag_system,doc_amount,memory_used,training_time
+MichaelRag,469,1550286,1064.9700527191162
+VanillaRag,469,7825725,19.77609395980835
+LightRag,469,40741861,3734.483344554901

@@ -1,0 +1,3 @@
+{
+    "EMBEDDINGS_PATH": "./vanilla_rag/work_dir/vanillarag_gemini_embeddings.json"
+}
